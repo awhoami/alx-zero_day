@@ -1,2 +1,10 @@
 #!/bin/bash
+<<<<<<<
 AALX School
+=======
+<<<<<<<
+ALX School is cool!
+=======
+ALX School
+>>>>>>> update_script
+>>>>>>> main
